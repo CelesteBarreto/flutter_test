@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Column(
               children: [
                 Text("Chbanges into development branch"),
-                Text("Chbanges into development branch 2"),
+                Text("Chbanges into development branch 2 'changesto conflict'"),
                 Text(
                   'You have pushed the button this many times:',
                 ),
